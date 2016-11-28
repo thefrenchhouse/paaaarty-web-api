@@ -4,7 +4,7 @@
 ## Endpoints
 
 ### Party
-- `/api/v1/party/:id/add_guest`
+- **POST** `/api/v1/party/:id/add_guest`
   - userId
 
 - **POST** `/api/v1/party/:id/generate`
