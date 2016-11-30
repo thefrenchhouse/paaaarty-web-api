@@ -1,4 +1,4 @@
-# Paaaaty public web API
+# Paaaarty public Web API
 
 
 ## Endpoints
